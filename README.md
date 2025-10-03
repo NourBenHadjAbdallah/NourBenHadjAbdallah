@@ -8,13 +8,6 @@
   
 </p>
 
-<div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nourbenhadjabdallah&show_icons=true&locale=en&layout=compact" alt="nourbenhadjabdallah" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nourbenhadjabdallah&show_icons=true&locale=en" alt="nourbenhadjabdallah" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nourbenhadjabdallah&" alt="nourbenhadjabdallah" /></p>
-</div>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NourBenHadjAbdallah.NourBenHadjAbdallah&" />
