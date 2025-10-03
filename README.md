@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nour Ben Hadj Abdallah</h1>
-<h3 align="center">Full-Stack Developer | React Native & Mobile App Wizard | Freelancer | Video Editor</h3>
+<h3 align="center">Full-Stack & Web3 Developer | Smart contract developer </h3>
 
 <p align="center">Welcome to my GitHub! I’m passionate about crafting seamless, user-friendly digital experiences. From building full-stack web apps to cross-platform mobile solutions with React Native, I blend tech and creativity as a freelancer and video editor. Oh, and I’m proudly bilingual (Arabic & English)!</p>
 
