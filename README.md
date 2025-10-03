@@ -3,11 +3,6 @@
 
 <p align="center">Welcome to my GitHub! I’m passionate about crafting seamless, user-friendly digital experiences. From building full-stack web apps to cross-platform mobile solutions with React Native, I blend tech and creativity as a freelancer and video editor. Oh, and I’m proudly bilingual (Arabic & English)!</p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nourbenhadjabdallah" alt="nourbenhadjabdallah" />
-  
-</p>
-
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NourBenHadjAbdallah.NourBenHadjAbdallah&" />
