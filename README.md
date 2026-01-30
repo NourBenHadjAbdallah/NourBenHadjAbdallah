@@ -14,7 +14,6 @@
 - 💻 **Full-Stack Developer**: End-to-end solutions with clean code and sleek designs.
 - 📱 **React Native & Mobile Apps**: Cross-platform apps for iOS and Android.
 - 🛠️ **Freelancer**: Delivering custom projects for clients globally.
-- 🎥 **Video Editor**: Telling stories through visuals with tools like Photoshop and Premiere Pro.
 - 🌍 **Bilingual**: Fluent in Arabic and English, bridging cultures and code.
 - 🚀 Always exploring new tech and creative challenges!
 
